@@ -225,14 +225,3 @@ WOMEN_SAFETY/
 - Geospatial queries: <100ms
 - Supports 10,000+ concurrent location pings/second
 
-## License
-
-[License information]
-
-## Contributing
-
-[Contributing guidelines]
-
-## Support
-
-[Support information]
